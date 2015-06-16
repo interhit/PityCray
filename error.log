@@ -768,3 +768,5 @@
 [Tue Jun 16 12:16:00 2015] [error] [client 86.121.88.225] Directory index forbidden by Options directive: /var/www/citypray.com/
 [Tue Jun 16 12:16:36 2015] [error] [client 86.121.88.225] File does not exist: /var/www/citypray.git
 [Tue Jun 16 12:16:47 2015] [error] [client 86.121.88.225] File does not exist: /var/www/my_git_project.git
+[Tue Jun 16 12:31:07 2015] [error] [client 213.233.84.88] Directory index forbidden by Options directive: /var/www/
+[Tue Jun 16 12:31:43 2015] [error] [client 213.233.84.88] Directory index forbidden by Options directive: /var/www/

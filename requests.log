@@ -8147,3 +8147,7 @@
 86.121.88.225 - - [16/Jun/2015:12:16:08 -0400] "GET /citypray.com/public/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
 86.121.88.225 - - [16/Jun/2015:12:16:36 -0400] "GET /citypray.git/info/refs?service=git-upload-pack HTTP/1.1" 404 298
 86.121.88.225 - - [16/Jun/2015:12:16:47 -0400] "GET /my_git_project.git/info/refs?service=git-upload-pack HTTP/1.1" 404 304
+213.233.84.88 - - [16/Jun/2015:12:31:07 -0400] "GET / HTTP/1.1" 403 5039
+213.233.84.88 - - [16/Jun/2015:12:31:07 -0400] "GET /icons/apache_pb.gif HTTP/1.1" 200 2326
+213.233.84.88 - - [16/Jun/2015:12:31:07 -0400] "GET /icons/poweredby.png HTTP/1.1" 200 3956
+213.233.84.88 - - [16/Jun/2015:12:31:43 -0400] "GET / HTTP/1.1" 403 5039
