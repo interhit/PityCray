@@ -1,0 +1,1 @@
+<strong>Contact page</strong>
